@@ -2,6 +2,7 @@
 
 A dark (blue gray) syntax theme for Atom
 
+Likely the code below does not still work
 ```bash
 apm install blue-gray-syntax
 ```
