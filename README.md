@@ -5,5 +5,4 @@ A dark (blue gray) syntax theme for Atom
 ```bash
 apm install blue-gray-syntax
 ```
-
-![](https://raw.githubusercontent.com/arabsight/atom-blue-grey-syntax/master/thumbnail.png)
+This is an edited version of an Atom text editor syntax theme which I found on Github a while back. I have made some of my own changes and it seems the original theme is no longer available so I am posting this here for my own use mostly.
