@@ -1,0 +1,51 @@
+{
+  "_from": "https://www.atom.io/api/packages/blue-gray-syntax/versions/0.4.0/tarball",
+  "_id": "blue-gray-syntax@0.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-cv/LV8bSOVErIsBSaOcbG0FqhhxcrIxwyPdKJTD4uApwLLyFHvY0NtsbkyO/b2wVaNell6oRWPT+zhsQO0kxaQ==",
+  "_location": "/blue-gray-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/blue-gray-syntax/versions/0.4.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/blue-gray-syntax/versions/0.4.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/blue-gray-syntax/versions/0.4.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/blue-gray-syntax/versions/0.4.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/blue-gray-syntax/versions/0.4.0/tarball",
+  "_shasum": "2b91c04e65ae76496e6840458922a25012ff0662",
+  "_spec": "https://www.atom.io/api/packages/blue-gray-syntax/versions/0.4.0/tarball",
+  "_where": "C:\\Users\\sasuk\\AppData\\Local\\Temp\\apm-install-dir-119314-13720-1lu0mmr.ae4",
+  "author": {
+    "name": "Rabah Ghodbane"
+  },
+  "bugs": {
+    "url": "https://github.com/arabsight/atom-blue-grey-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A dark (blue gray) syntax theme for Atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/arabsight/atom-blue-grey-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "gray",
+    "dark",
+    "blue"
+  ],
+  "license": "MIT",
+  "name": "blue-gray-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arabsight/atom-blue-grey-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.4.0"
+}
